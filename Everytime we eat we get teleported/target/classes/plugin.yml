@@ -1,0 +1,5 @@
+name: Plugin_Maria
+version: '1.0-SNAPSHOT'
+main: maria.plugin_maria.Plugin_Maria
+api-version: 1.19
+authors: [ L0RD3N ]
