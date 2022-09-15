@@ -1,0 +1,17 @@
+name: Plugin
+version: '1.0-SNAPSHOT'
+main: plugin.plugin.Plugin
+api-version: 1.18
+commands:
+  location:
+    description: Sends coordinates of the command sender in chat.
+    usage:  /location
+    aliases: loc
+  tpvehicle:
+    description: Teleports vehicle and passengers to a certain player or location
+    usage: /tpvehicle
+    aliases: tpv
+  teleporthome:
+    description: Teleports player and his vehicle home
+    usage: /tphome
+    aliases: home
