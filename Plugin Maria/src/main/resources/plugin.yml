@@ -1,5 +1,0 @@
-name: Plugin_Maria
-version: '${project.version}'
-main: maria.plugin_maria.Plugin_Maria
-api-version: 1.19
-authors: [ L0RD3N ]
