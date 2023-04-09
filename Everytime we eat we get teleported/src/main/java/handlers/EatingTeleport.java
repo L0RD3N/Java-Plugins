@@ -25,7 +25,7 @@ public class EatingTeleport implements Listener {
         Random random = new Random() ;
         double destinationX, destinationY, destinationZ ;
 
-        if ((player.getWorld().getEnvironment().equals(World.Environment.NETHER)) || (player.getWorld().getEnvironment().equals(World.Environment.NETHER)))
+        if ((player.getWorld().getEnvironment().equals(World.Environment.THE_END)) || (player.getWorld().getEnvironment().equals(World.Environment.NETHER)))
         {
 
             destinationX = random.nextDouble(100);
